@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2019-02-01
+img: 5_bowl.gif
+alt: bowl
+category: Grasshopper
+author: tatjanasomova
+repository: dynamo_stadium_automation
+description: A script in Dynamo to automate all the substructure elements (grade beams, columns, piles and retaining walls) from a given topography, isle widths, grid spacing, concourse height and soil properties. The script allowed us to automate the production of 3D models and documentation of the stadium bowl substructure, anticipating to the late arrival of the geotechnical information.
+---
