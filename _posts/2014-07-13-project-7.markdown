@@ -5,7 +5,7 @@ date: 2019-07-15
 img: 7_pile.png
 alt: image-alt
 category: Dynamo
-author: tatjanasomova
+author: mottmacdonaldglobal
 repository: dynamo_pile_rock_embedment
 description: The script finds all foundation piles in the model, takes location of the pile as a starting input, projects it onto selected topography (rock surface). Then it adds required embedment into the rock surface and updates all pile lengths. Script is also colouring piles in the current view by their length and adds individual marks based on the pile coordinates
 ---

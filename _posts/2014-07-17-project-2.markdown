@@ -6,6 +6,6 @@ img: 2_cookie.png
 alt: image-alt
 category: Grasshopper
 author: tatjanasomova
-repository: laser_cut_food
+repository: snapmaker_recepies
 description: A cookie is a baked or cooked snack or dessert that is typically small, flat and sweet. It usually contains flour, sugar, egg, and some type of oil, fat, or butter. It may include other ingredients such as raisins, oats, chocolate chips, nuts, etc.
 ---

@@ -5,7 +5,7 @@ date: 2019-12-06
 img: 4_CCTV.gif
 alt: CCTV
 category: Dynamo
-author: tatjanasomova
+author: mottmacdonaldglobal
 repository: dynamo_CCTV_cameras_optimization
 description: Automation for CCTV systems. During concept design, electrical engineers need to decide the optimal position of CCTV cameras, considering camera coverage and interaction with building elements. How can we reduce the time spent positioning and relocating CCTV in response to building layout changes? How can we optimise the position of CCTV cameras? Using Dynamo a tool was produced that assesses the coverage of CCTV cameras. Tool finds optimal placement of the cameras in the room selected from Revit model. Calculates and displays 3D coverage cone based on parameters and calculation; interactive coverage cones are automatically cut off below floors, above ceilings, and behind walls; Autodesk Project Refinery was used to optimise position of elements.
 ---

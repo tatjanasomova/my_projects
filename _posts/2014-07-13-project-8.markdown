@@ -5,7 +5,7 @@ date: 2014-07-15
 img: 6_ETABS_to_Revit.png
 alt: image-alt
 category: Grasshopper
-author: tatjanasomova
+author: mottmacdonaldglobal
 repository: dynamo_ETABS_to_Revit
 description: The script creates levels, piles, columns, slabs and structural framing elements in Revit from ETABS file. Outstanding task - correct Revit families have to be loaded to the Model and assigned to the elements created by Dynamo script.
 ---
