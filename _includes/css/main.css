@@ -89,8 +89,6 @@ img.rounded {
 
 header {
     text-align: center;
-    /* This value is the OPPOSITE color of our background */
-
     color: #fff;
     
     background-image: url("img/portfolio/background.jpg" );
